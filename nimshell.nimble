@@ -1,5 +1,5 @@
 # Package
-version       = "0.0.3"
+version       = "0.0.4"
 author        = "Anatoly Galiulin"
 description   = "Library for shell scripting in nim"
 license       = "MIT"
